@@ -15,11 +15,7 @@
 12. Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs (OPTIONAL)
 
 ### Project Deliverables
-1. p4-data.js
-[p4-data.js](p4-data.js)
-2. p4-module.js
-[p4-module.js](p4-module.js)
-3. p4-server.js
-[p4-server.js](p4-server.js)
-4. package.json
-[package.json](package.json)
+1. [p4-data.js](p4-data.js)
+2. [p4-module.js](p4-module.js)
+3. [p4-server.js](p4-server.js)
+4. [package.json](package.json)
